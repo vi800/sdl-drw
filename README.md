@@ -5,4 +5,4 @@
 
 can not save yet
 ## compile command
-gcc drw.c -lSDL2 -ldl
+```gcc drw.c -lSDL2 -ldl```
